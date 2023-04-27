@@ -1,0 +1,21 @@
+body{
+    background-color: seashell;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+#Top{
+    text-align: center;
+    font-size: 50px;
+}
+.emphasizedtext{
+    font-style: italic;
+}
+.h2{
+    text-decoration: underline;
+}
+.subheading{
+    font-weight: lighter;
+    color: dimgray;
+}
+  
